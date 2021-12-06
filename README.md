@@ -12,3 +12,6 @@
 - Como baixar e rodar o browser-sync
 - Como mostrar a mensagem de erro diretamente no HTML
 - Como customizar as mensagens de erro de validação
+- Outra estrutura de regex para a pré validação do CEP
+- Como fazer uma requisição para a API da ViaCEP
+- Preencher outros campos do formulário com a resposta da API da ViaCEP
