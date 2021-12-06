@@ -1,17 +1,18 @@
 
 
 ### Conteúdo do Curso:
-- Fazer validações no próprio HTML utilizando os atributos required e type.
-- Usar regras de regex dentro do atributo pattern para validar o campo de senha.
-- Mandar uma mensagem customizada de erro no balão do navegador.
+- Fazer validações no próprio HTML (atributos required e type).
+- Regex dentro do atributo pattern.
+- Mensagem customizada de erro no balão do navegador.
 - Criar funções para validações customizadas do formulário
 - Definir mensagens customizadas para validações fora do HTML
-- Utilizar data attributes para trabalhar com JavaScript
-- Deixar a função de validação mais genérica para funcionar com qualquer input
-- A instalar e usar o plugin Liveserver
-- Como baixar e rodar o browser-sync
-- Como mostrar a mensagem de erro diretamente no HTML
-- Como customizar as mensagens de erro de validação
-- Outra estrutura de regex para a pré validação do CEP
-- Como fazer uma requisição para a API da ViaCEP
-- Preencher outros campos do formulário com a resposta da API da ViaCEP
+- Utilizar data attributes
+- Função de validação mais genérica.
+- Plugin Liveserver
+- Browser-sync
+- Mensagem de erro diretamente no HTML
+- Customizar as mensagens de erro de validação
+- Regex para a pré validação do CEP
+- Requisição para a API da ViaCEP
+- Preencher campos com a resposta da API da ViaCEP
+- Adicionar máscara monetária para o campo de preço.
