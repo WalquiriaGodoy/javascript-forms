@@ -1,5 +1,7 @@
+# Curso: JS na Web: Validação de Formulários e HTML5
 
-
+## Formação Alura Front End
+---
 ### Conteúdo do Curso:
 - Fazer validações no próprio HTML (atributos required e type).
 - Regex dentro do atributo pattern.
